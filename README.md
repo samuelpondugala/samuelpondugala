@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelpondugala
 - 👀 I’m interested in Web Dev, Data Analytics & AI too
 - 🌱 I’m currently learning Web Dev
-- 📫 How to reach me linkedin.com/in/samuelpondugala
+- 📫 How to reach me https://www.linkedin.com/in/samuelpondugala
 - ✉️ interested in my work? email me: davidsamuel7143@gmail.com
 - 😄 Pronouns: He/Him
 
