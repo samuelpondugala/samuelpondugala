@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samuelpondugala
+- 👋 Hi, I’m David Samuel
 - 👀 I’m interested in Web Dev, Data Analytics & AI too
 - 🌱 I’m currently learning Web Dev
 - 📫 How to reach me https://www.linkedin.com/in/samuelpondugala
