@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika30032002&label=Profile%20views&color=0e75b6&style=flat" alt="kritika30032002" /> </p>
 
 # 👩‍💻 About Me
-- Final-year Computer Science Engineering student.
+- Recent Graduate with an Electronics background, interested in Web design.
 - Passionate about web development, especially in the MERN stack.
 
 # 👀 Interests
@@ -19,38 +19,33 @@
 - Interested in collaborating in the open source platform/event.
 
 # 👩‍💻 Technical Proficiency
-- Proficient in C++, C, and web development technologies, including:
+- Proficient in  C, Python, and web development technologies, including:
   - NodeJS, ExpressJS, MongoDB, ReactJS (MERN)
   - HTML, CSS, JavaScript
   - Redux, API, Tailwind CSS
-  - Payments API (Stripe & Cashfree),
-  - Twillio Mobile otp verification 
+  - Framer, Figma, Webflow.
 
 # 🌐 Professional Experience
-- Frontend Web Development Intern at NOI Technologies LLC.
+- Frontend Web Development Intern at Naresh I Technologies.
   - Gained hands-on experience in developing responsive and user-friendly web applications.
 
 # 🚀 Achievements
-- Ex-Martian Summer Intern'23 at Persistent.
 - Mentor at Various Open source events.
-- Hacksquad'22 Winner.
+- Designed 10+ Websites Using Framer and Figma.
 - MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Web Developer.
 
 # 🌐 Involvement in Community and Leadership Experience
 - Active participant in open-source events.
-- Mentor for newcomers in the open source tech community.
-  - Mentored at KWOC 2022, KWOC 2023, HACKTOBERFEST 2023, CODEPEAK 2023, IWOC 2024, Caffeine & Code Mentor, GSSOC'24.
-- Participated as a participant in HACKTOBERFEST 2022, HACKSQUAD 2022(**WINNER**), SSOC 2022 (Social Summer of Code), HACKTOBERFEST 2023
 
 # 🤝 Excited to Connect
 - Excited to connect with fellow professionals.
 - Eager to explore new opportunities and contribute to the tech industry.
-You can connect with me via  [linkedin](https://www.linkedin.com/in/kritika-gupta-343458212/) or by [Mail](kritikagupta3003@gmail.com).
+You can connect with me via  [linkedin](https://www.linkedin.com/in/samuelpondugala/) or by [Mail](davidsamuel7143@gmail.com).
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
-<a href="https://www.linkedin.com/in/kritika-gupta-343458212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@kritika-gupta-343458212" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuelpondugala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@samuelpondugala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
