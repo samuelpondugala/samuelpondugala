@@ -58,6 +58,7 @@ You can connect with me via  [linkedin](https://www.linkedin.com/in/samuelpondug
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelpondugala&show_icons=true&locale=en" alt="samuelpondugala" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelpondugala&" alt="samuelpondugala" /></p>
+[![@kritikagupta3003's Holopin board](https://holopin.me/samuelpondugala)](https://holopin.io/@samuelpondugala)
 
 <br>
 
