@@ -60,6 +60,7 @@ You can connect with me via  [linkedin](https://www.linkedin.com/in/samuelpondug
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelpondugala&" alt="samuelpondugala" /></p>
 
 <br>
-
+[![samuelpondugala's GitHub | Stats](https://stats.quira.sh/samuelpondugala/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=samuelpondugala)
+<h1>All About Hacktoberfest 2024 </h1>
 [![@samuelpondugala's Holopin board](https://holopin.me/samuelpondugala)](https://holopin.io/@samuelpondugala)
 
