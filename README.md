@@ -61,7 +61,7 @@ You can connect with me via  [linkedin](https://www.linkedin.com/in/samuelpondug
 
 <br>
 
-[![samuelpondugala's GitHub | Stats](https://stats.quira.sh/samuelpondugala/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=samuelpondugala)
+[![samuelpondugala's GitHub | Stats](https://stats.quira.sh/samuelpondugala/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=samuelpondugala)
 
 <h1>All About Hacktoberfest 2024 </h1>
 
