@@ -31,6 +31,7 @@
 
 # 🚀 Achievements
 - Mentor at Various Open source events.
+- Contributed to 16+ Open source Projects.
 - Designed 10+ Websites Using Framer and Figma.
 - MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Web Developer.
 
