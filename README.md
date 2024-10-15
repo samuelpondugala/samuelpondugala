@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika30032002&label=Profile%20views&color=0e75b6&style=flat" alt="kritika30032002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelpondugala2&label=Profile%20views&color=0e75b6&style=flat" alt="samuelpondugala" /> </p>
 
 # 👩‍💻 About Me
 - Recent Graduate with an Electronics background, interested in Web design.
@@ -61,5 +61,5 @@ You can connect with me via  [linkedin](https://www.linkedin.com/in/samuelpondug
 
 <br>
 
-[![KritikaGupta30's GitHub | Stats](https://stats.quine.sh/KritikaGupta30/github?theme=light)](https://quine.sh)
+[![David Samuel's GitHub | Stats](https://stats.quine.sh/samuelpondugala/github?theme=light)](https://quine.sh)
 
