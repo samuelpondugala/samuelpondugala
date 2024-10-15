@@ -61,5 +61,4 @@ You can connect with me via  [linkedin](https://www.linkedin.com/in/samuelpondug
 
 <br>
 
-[![David Samuel's GitHub | Stats](https://stats.quine.sh/samuelpondugala/github?theme=light)](https://quine.sh)
 
