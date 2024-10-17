@@ -41,7 +41,7 @@
 # 🤝 Excited to Connect
 - Excited to connect with fellow professionals.
 - Eager to explore new opportunities and contribute to the tech industry.
-- You can visit my portfolio to see my designing skills here - https://lucky-types-734957.framer.app/
+- You can visit my portfolio to see designing skills here - https://lucky-types-734957.framer.app/
 You can connect with me via  [linkedin](https://www.linkedin.com/in/samuelpondugala/) or by [Mail](davidsamuel7143@gmail.com).
 
 
