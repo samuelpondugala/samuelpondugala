@@ -74,3 +74,9 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 
 [![@samuelpondugala's Holopin board](https://holopin.me/samuelpondugala)](https://holopin.io/@samuelpondugala)
 
+
+## Stats
+![Alt](https://repobeats.axiom.co/api/embed/70640a78b1dd27cb68fca7429598a75411ffb5cc.svg "Repobeats analytics image")
+
+#
+
