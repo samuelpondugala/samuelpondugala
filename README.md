@@ -82,7 +82,8 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 <h1>All About Hacktoberfest 2024 </h1>
 
 [![@samuelpondugala's Holopin board](https://holopin.me/samuelpondugala)](https://holopin.io/@samuelpondugala)
-📄 [View My Resume](https://github.com/samuelpondugala/samuelpondugala/blob/main/MyResume.pdf)
+
+📄 [Download My Resume](https://raw.githubusercontent.com/samuelpondugala/samuelpondugala/main/MyResume.pdf)
 
 
 ## Stats
