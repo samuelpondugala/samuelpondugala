@@ -83,7 +83,12 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 
 [![@samuelpondugala's Holopin board](https://holopin.me/samuelpondugala)](https://holopin.io/@samuelpondugala)
 
+samuelpondugala-patch-2
 📄 [Download My Resume](https://raw.githubusercontent.com/samuelpondugala/samuelpondugala/main/MyResume.pdf)
+
+=======
+[![Resume Preview](https://github.com/samuelpondugala/samuelpondugala/blob/main/Screenshot%202025-02-23%20172523.png)](https://github.com/samuelpondugala/samuelpondugala/blob/main/MyResume.pdf)
+
 
 
 ## Stats
