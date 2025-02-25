@@ -87,7 +87,7 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 📄 [Download My Resume](https://raw.githubusercontent.com/samuelpondugala/samuelpondugala/main/MyResume.pdf)
 
 
-[![Resume Preview](https://github.com/samuelpondugala/samuelpondugala/blob/main/Screenshot%202025-02-23%20172523.png)](https://github.com/samuelpondugala/samuelpondugala/blob/main/MyResume.pdf)
+[![Resume Preview](https://github.com/samuelpondugala/samuelpondugala/blob/main/MyResume%20(1)_page-0001.jpg)](https://github.com/samuelpondugala/samuelpondugala/blob/main/MyResume.pdf)
 
 
 
