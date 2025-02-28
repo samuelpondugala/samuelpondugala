@@ -78,7 +78,7 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 <br>
 
 [![samuelpondugala's GitHub | Stats](https://stats.quira.sh/samuelpondugala/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=samuelpondugala)
-
+[![David Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelpondugala&theme=github-compact)](https://github.com/samuelpondugala/github-readme-activity-graph)
 <h1>All About Hacktoberfest 2024 </h1>
 
 [![@samuelpondugala's Holopin board](https://holopin.me/samuelpondugala)](https://holopin.io/@samuelpondugala)
