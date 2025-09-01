@@ -84,7 +84,7 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 [![@samuelpondugala's Holopin board](https://holopin.me/samuelpondugala)](https://holopin.io/@samuelpondugala)
 
 
-📄 [Download My Resume](https://raw.githubusercontent.com/samuelpondugala/samuelpondugala/main/MyResume.pdf)
+📄 [Download My Resume](https://raw.githubusercontent.com/samuelpondugala/samuelpondugala/main/Resume20%(1).pdf)
 
 
 [![Resume Preview](https://github.com/samuelpondugala/samuelpondugala/blob/main/{D180A8BC-B069-422B-BDB9-04DED46EC25B}.png)](https://lucky-types-734957.framer.app/)
