@@ -96,6 +96,6 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 
 ## LeetCode Badges
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=samuelpondugala&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=samuelpondugala&animated=true&theme=dark)
 
 
