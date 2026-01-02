@@ -94,5 +94,7 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 ## Stats
 ![Alt](https://repobeats.axiom.co/api/embed/70640a78b1dd27cb68fca7429598a75411ffb5cc.svg "Repobeats analytics image")
 
-#
+## LeetCode Badges
+
+<img src="leetcode-badge-showcase.vercel.app{samuelpondugala}&animated=true" alt="LeetCode Badges" />
 
