@@ -87,7 +87,6 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 📄 [Download My Resume](https://github.com/samuelpondugala/samuelpondugala/blob/9f7711145ae2505572eff87930b72dab0cbbc89b/Resume%20(1).pdf)
 
 
-[![Resume Preview](https://github.com/samuelpondugala/samuelpondugala/blob/main/{D180A8BC-B069-422B-BDB9-04DED46EC25B}.png)](https://lucky-types-734957.framer.app/)
 
 
 
@@ -96,6 +95,6 @@ You can connect with me via <a href="https://www.linkedin.com/in/samuelpondugala
 
 ## LeetCode Badges
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=samuelpondugala&animated=true&theme=dark)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=samuelpondugala&theme=dark)
 
 
